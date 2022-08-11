@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ejercicio 1 - El componente ProductCard 1) Renderiza 1`] = `
+<DocumentFragment>
+  <div
+    style="border: 2px solid black;"
+  >
+    <h2 />
+    <img />
+    <button>
+      agregar Favoritos
+    </button>
+  </div>
+</DocumentFragment>
+`;

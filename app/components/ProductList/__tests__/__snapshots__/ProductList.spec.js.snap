@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ejercicio 1 - El componente ProductList 1) Renderiza 1`] = `
+<DocumentFragment>
+  <ul>
+    <li
+      style="border: 2px solid black;"
+    >
+      <h2>
+        Samsung Galaxy A03 128 Gb Negro 4 Gb Ram
+      </h2>
+      <img
+        alt="Samsung Galaxy A03 128 Gb Negro 4 Gb Ram"
+        src="http://http2.mlstatic.com/D_737913-MLA49433851234_032022-I.jpg"
+      />
+      <button>
+        agregar a favoritos
+      </button>
+    </li>
+    <li
+      style="border: 2px solid black;"
+    >
+      <h2>
+        Motorola Edge 20 Lite 128 Gb Gris 6 Gb Ram
+      </h2>
+      <img
+        alt="Motorola Edge 20 Lite 128 Gb Gris 6 Gb Ram"
+        src="http://http2.mlstatic.com/D_833619-MLA48233725917_112021-I.jpg"
+      />
+      <button>
+        agregar a favoritos
+      </button>
+    </li>
+    <li
+      style="border: 2px solid black;"
+    >
+      <h2>
+        Samsung Galaxy S20 Fe 128 Gb Cloud Navy 6 Gb Ram
+      </h2>
+      <img
+        alt="Samsung Galaxy S20 Fe 128 Gb Cloud Navy 6 Gb Ram"
+        src="http://http2.mlstatic.com/D_995741-MLA47861036467_102021-I.jpg"
+      />
+      <button>
+        agregar a favoritos
+      </button>
+    </li>
+    <li
+      style="border: 2px solid black;"
+    >
+      <h2>
+         Moto G22 128 Gb Cosmic Black 4 Gb Ram
+      </h2>
+      <img
+        alt=" Moto G22 128 Gb Cosmic Black 4 Gb Ram"
+        src="http://http2.mlstatic.com/D_854793-MLA50262132804_062022-I.jpg"
+      />
+      <button>
+        agregar a favoritos
+      </button>
+    </li>
+    <li
+      style="border: 2px solid black;"
+    >
+      <h2>
+        Samsung Galaxy A22 128 Gb Black 4 Gb Ram
+      </h2>
+      <img
+        alt="Samsung Galaxy A22 128 Gb Black 4 Gb Ram"
+        src="http://http2.mlstatic.com/D_774406-MLA47777566692_102021-I.jpg"
+      />
+      <button>
+        agregar a favoritos
+      </button>
+    </li>
+    <li
+      style="border: 2px solid black;"
+    >
+      <h2>
+        Samsung Galaxy A32 128 Gb Awesome Black 4 Gb Ram
+      </h2>
+      <img
+        alt="Samsung Galaxy A32 128 Gb Awesome Black 4 Gb Ram"
+        src="http://http2.mlstatic.com/D_922219-MLA48428094384_122021-I.jpg"
+      />
+      <button>
+        agregar a favoritos
+      </button>
+    </li>
+  </ul>
+</DocumentFragment>
+`;
